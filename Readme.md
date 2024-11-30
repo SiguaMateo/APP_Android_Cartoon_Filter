@@ -2,6 +2,10 @@
 
 # Aplicación Android
 
+Realizado por:
+
+**Jeison Pañora - Paúl Sigua**
+
 [Video filter_cartoon.mp4](https://youtu.be/A2qymzsf16Q)
 
 ## Introducción

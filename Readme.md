@@ -19,24 +19,24 @@ Además, este proyecto incluye la creación de una aplicación Android diseñada
 Para el desarrollo del proyecto, se emplearon las siguientes tecnologías:
 
 1. **OpenCV:** Librería para el procesamiento de imágenes y video.
-
-![OpenCV](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png)
+   
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png" width="150" height="150">
 
 2. **C++:** Lenguaje utilizado para implementar el procesamiento del video en tiempo real.
-
-![C++](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFQlJS-SEBXODRztLIs5VW-RL3U1IFXIH7e5Np9NrKuVYzqDRiEhUYQ2QvJz7NahmsuG4zokC-95MgmUVNmbVn0bzd4lGfrN5qOHIMeg)
+   
+   <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFQlJS-SEBXODRztLIs5VW-RL3U1IFXIH7e5Np9NrKuVYzqDRiEhUYQ2QvJz7NahmsuG4zokC-95MgmUVNmbVn0bzd4lGfrN5qOHIMeg" width="150" height="150">
 
 3. **Android Studio:** Entorno de desarrollo para la creación de la aplicación móvil.
-
-![Android Studio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuttp_isCbO4DFr4jH61d8BTt9CM1gBs6EXA&s)
+   
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuttp_isCbO4DFr4jH61d8BTt9CM1gBs6EXA&s" width="150" height="150">
 
 4. **Arduino:** Plataforma empleada para programar la cámara ESP32-CAM.
-
-![IDE Arduino](https://images.sftcdn.net/images/t_app-icon-m/p/222e795e-f251-4cff-8eed-2721443b569c/2420662603/arduino-ide-logo.png)
+   
+   <img src="https://images.sftcdn.net/images/t_app-icon-m/p/222e795e-f251-4cff-8eed-2721443b569c/2420662603/arduino-ide-logo.png" width="150" height="150">
 
 5. **Módulo ESP32-CAM:** Hardware utilizado como fuente del *streaming* de video.
-
-![ESP32-CAM](https://circuitpython.org/assets/images/boards/large/ai-thinker-esp32-cam.jpg)
+   
+   <img src="https://circuitpython.org/assets/images/boards/large/ai-thinker-esp32-cam.jpg" width="150" height="150">
 
 ## Desarrollo
 

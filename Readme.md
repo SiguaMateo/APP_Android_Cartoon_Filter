@@ -2,10 +2,7 @@
 
 # Aplicación Android
 
-<video controls>
-  <source src="filter_cartoon.mp4" type="video/mp4">
-  Tu navegador no soporta la reproducción de videos.
-</video>
+[Video filter_cartoon.mp4](https://youtu.be/A2qymzsf16Q)
 
 ## Introducción
 
